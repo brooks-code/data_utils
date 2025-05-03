@@ -1,6 +1,7 @@
 # Data utilities collection
 
 ![Banner Image](/img/Memory_persistence_moma.gif "Le camembert du temps.")
+
 *Salvador Dalí, The Persistence of Memory (1931) - Source: [MoMa](https://www.moma.org/collection/works/79018) Floor 5, 517*
 
 This repository contains a collection tools of various data processing related perks. These utilities were mostly designed to overcome challenges during projects.
@@ -16,7 +17,7 @@ This repository contains a collection tools of various data processing related p
 
 The following utilities are currently available in this repository:
 
-* `missingMap`: [A python script](/missingMap/) for resizing and renaming images, as well as removing EXIF metadata *(added in May 2025)*.
+* `missingMap`: [A python script](/missingMap/) a fast and visually engaging tool to visualize differences in missing data between similar datasets. *(added in May 2025)*.
 * *more utilities will appear here as they are added to this repository.*
 
 ## Installation
