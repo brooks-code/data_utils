@@ -4,7 +4,7 @@
 
 *Salvador Dalí, The Persistence of Memory (1931) - Source: [MoMa](https://www.moma.org/collection/works/79018) Floor 5, 517*
 
-This repository contains a collection tools of various data processing related perks. These utilities were mostly designed to overcome challenges during projects.
+This repository contains a collection of various data processing related perks. These utilities were mostly designed while trying to overcome challenges during various projects.
 ## Table of contents
 
 - [Data utilities collection](#data-utilities-collection)
