@@ -17,7 +17,7 @@ This repository contains a collection tools of various data processing related p
 
 The following utilities are currently available in this repository:
 
-* `missingMap`: [A python script](/missingMap/) a fast and visually engaging tool to visualize differences in missing data between similar datasets. *(added in May 2025)*.
+* `missingMap`: A fast and visually engaging [python tool](/missingMap/) to visualize differences in missing data between similar datasets. *(added in May 2025)*.
 * *more utilities will appear here as they are added to this repository.*
 
 ## Installation
