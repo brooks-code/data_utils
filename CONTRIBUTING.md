@@ -33,8 +33,8 @@ Click the “Fork” button in the top-right corner of this page.
 ### 2. Clone your fork  
 
 ```bash
-git clone https://github.com/brooks-code/fuzzy-carnival.git
-cd fuzzy-carnival
+git clone https://github.com/brooks-code/data_utils.git
+cd data_utils
 ```
 
 ### 3. Create a branch
