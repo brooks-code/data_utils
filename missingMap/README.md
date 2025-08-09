@@ -4,7 +4,7 @@
 
 ![Banner Image](/img/ErtaAle.gif "Magma animated gif.")
 
-*It's datafusion time (Erta Ale, Source R. Roscoe's [photovolcanica](http://www.photovolcanica.com/VolcanoInfo/Erta%20Ale/Erta%20Ale.html)).*
+*It's data consolidation time (Erta Ale, Source R. Roscoe's [photovolcanica](http://www.photovolcanica.com/VolcanoInfo/Erta%20Ale/Erta%20Ale.html)).*
 
 ### Genesis
 
