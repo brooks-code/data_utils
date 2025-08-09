@@ -1,4 +1,4 @@
-# Contributing to the data utilities repository
+# Contributing to data utilities
 
 First off, thanks for taking the time to contribute!
 
@@ -8,7 +8,7 @@ The following is a set of guidelines for contributing to this repo. These are mo
 
 ## Table of Contents
 
-- [Contributing to DataSwag](#contributing-to-dataswag)
+- [Contributing to data utilities](#contributing-to-data-utilities)
   - [Table of Contents](#table-of-contents)
   - [How Can I Contribute?](#how-can-i-contribute)
     - [1. Fork the repo](#1-fork-the-repo)
