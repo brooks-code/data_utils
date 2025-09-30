@@ -17,7 +17,7 @@ This repository contains a collection of various data processing related perks. 
 
 The following utilities are currently available in this repository:
 
-* `missingMap`: A fast and visually engaging [python tool]([/missingMap/](https://github.com/brooks-code/dataset-merge-inspector)) to visualize differences in missing data between similar datasets. *(added in May 2025)*.
+* `missingMap`: A fast and visually engaging [python tool](https://github.com/brooks-code/dataset-merge-inspector) to visualize differences in missing data between similar datasets. *(added in May 2025)*.
 * *more utilities will appear here as they are added to this repository.*
 
 ## Installation
